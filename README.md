@@ -6,4 +6,14 @@ to kill all the zombies(crawlers, chasers, and bloaters) in a wave/level with a 
 
 This is an individual project. Not an original idea (learned from c++ game programming 1 course on Linkedin learning).
 
+Instructions to play: 
+
+  1.) Movement – W, A, S, D 
+
+  2.) Shoot – LMB (Left Mouse Button) 
+
+  3.) Reload – R 
+
+  4.) Exit - Esc 
+
 <img src="Zombie.PNG">
